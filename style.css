@@ -47,6 +47,10 @@ a{
     line-height: 25px;
     letter-spacing: -0.129px;
 }
+a:hover{
+    transition: 0.7s;
+    color: yellow;
+}
 button{
     border: none;
     width: 140px;
