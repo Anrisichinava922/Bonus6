@@ -5,8 +5,17 @@
         background-image: url(./assets/desktopback.svg);
         background-repeat: no-repeat;
     }
+    .img2{
+        display: none;
+    }
     .headerimg{
-        column-gap: 1080px;
+        column-gap: 700px;
+    }
+    .nonetxt{
+        display: flex;
+        flex-direction: row;
+        column-gap: 47px;
+        align-items: center;
     }
     h1{
         width: 750px;
